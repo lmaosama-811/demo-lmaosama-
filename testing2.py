@@ -1,5 +1,6 @@
 print("github is such a dick, ridiculous")
 print("However, it's pretty fun when you know how to use it")
 print("but it's too hard to master")
-print("and I don't like it")
-print("create conflict on purpose")
+print("how can I fix conflict")
+print("I wanna fix conflict")
+print("resolve conflict")
